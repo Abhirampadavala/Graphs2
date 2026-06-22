@@ -38,7 +38,7 @@ class Solution {
           }
         }
 
-          //flag 1 means change happend , loop continues
+          //flag 1 means change happend , while ka loop continues
          if(!flag) 
           {
            return dist;
